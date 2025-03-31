@@ -1,1 +1,1 @@
-# supermarket-cashier
+# Supermarket Cashier
